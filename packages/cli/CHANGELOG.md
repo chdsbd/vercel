@@ -1,5 +1,13 @@
 # vercel
 
+## 30.2.4
+
+### Patch Changes
+
+- Only show relevant Project matches in Project selector ([#10114](https://github.com/vercel/vercel/pull/10114))
+
+- [cli] Fix error message when token is invalid ([#10131](https://github.com/vercel/vercel/pull/10131))
+
 ## 30.2.3
 
 ### Patch Changes
